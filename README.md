@@ -1,5 +1,7 @@
 README.md
 
+Hello! 
+My Name is Michael and I love to code!
 
 1. My career currently is focused on becoming a full stack web designer, for my educational background I have graduated from Ecole Secondaire Nortre Dame High School and am now taking Full Stack Web Deevlopment at U of A 
 
